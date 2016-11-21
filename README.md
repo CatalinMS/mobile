@@ -1,5 +1,5 @@
 # mobile
-Talk yourself - a note taking application
+SelfTalk - a note taking application
 
 All users can use this application, authentication is not mandatory.
 
