@@ -18,7 +18,7 @@ export const notes = [
         body: "3rd note"
     },
     {
-        id: 5,
+        id: 4,
         title: "Note 4",
         date: "22-23-2014",
         body: "4th note"
