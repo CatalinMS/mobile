@@ -1,0 +1,5 @@
+rootProject.name = 'AwesomeProject'
+
+include ':app'
+
+include ':RNSendIntentModule', ':app'
