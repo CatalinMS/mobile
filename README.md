@@ -1,14 +1,14 @@
-# mobile
-SelfTalk - a note taking application
+# SelfTalk - a note taking application
 
-All users can use this application, authentication is not mandatory.
+## Brainstorming:
+1. All users can use this application, authentication is not mandatory.
 
-Users can take notes and a list of all notes will be displayed
+2. Users can take notes and a list of all notes will be displayed.
 
-both offline and online support. Online to share notes between devices
+3. Both offline and online support. Online to share notes between devices.
 
-show location of places on reminders if set. Send emails of confirmation and reminders 
+4. Show location of places on reminders, make it opt-in. Send emails of confirmation and reminders. 
 
-notes can be arranged
+5. Notes can be rearranged.
 
-chart of complete and uncomplete reminders
+6. Chart of complete and uncomplete reminders
